@@ -1,0 +1,54 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+}
+h1{
+    color: orange;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color:whitesmoke;
+    text-align: center;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 7px 25px;
+    font-size: 25px;
+    border-radius: 5px;
+    font-weight: 500;
+    color: antiquewhite;
+    text-align: center;
+}
+.top-banner{
+    background-image: url(images/donation6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 2px;
+}
+.donate-today{
+    color: black;
+}
+.flaxible-container{
+    color: blueviolet;
+    display:flex;
+}
+#tk{
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgb(243, 243, 222);
+    text-align: center;
+}
+.border-tk{
+    border: 5px;
+    border-color: blue;
+    color: coral;
+}
+h3{
+    color: rgba(78, 44, 44, 0.603);
+    text-align: center;
+    border-bottom: rgb(48, 36, 36);
+}
