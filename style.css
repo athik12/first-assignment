@@ -52,3 +52,22 @@ h3{
     text-align: center;
     border-bottom: rgb(48, 36, 36);
 }
+.donate-tk{
+    color: black;
+    font-size: 45px;
+
+}
+#donate-plan{
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgb(243, 243, 222);
+    text-align: center; 
+}
+.donate-font{
+    font-size: 30px;
+    color: black;
+}
+footer{
+    background-color: black;
+}
